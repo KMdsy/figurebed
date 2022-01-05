@@ -1,3 +1,3 @@
-# figurebed
+# FigureBed
 
-Figurebed of shaoyu
+:)
